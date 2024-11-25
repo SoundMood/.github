@@ -1,5 +1,5 @@
 ## SoundMood
-Panopticon is a mobile application that can generate playlists from your daily mood.
+SoundMood is a mobile application that can generate playlists from your daily mood.
 
 ## Greetings
 Hello everyone! We are from team C242-PS397. Our teams consist of seven members, which are:
